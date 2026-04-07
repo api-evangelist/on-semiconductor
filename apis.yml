@@ -1,7 +1,12 @@
 aid: on-semiconductor
-url: https://raw.githubusercontent.com/api-evangelist/on-semiconductor/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/on-semiconductor/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.on-semiconductor.com
+description: >-
+  ON Semiconductor (now onsemi) is a global supplier of semiconductor-based solutions
+  for power efficiency, image sensing, and signal processing in automotive, industrial,
+  and other applications.
