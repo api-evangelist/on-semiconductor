@@ -13,6 +13,10 @@ tags:
   - Automotive
   - Industrial
 common:
+  - type: GitHubOrganization
+    url: https://github.com/ONSemiconductor
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/onsemi
   - type: Website
     url: https://www.onsemi.com
   - type: Products
