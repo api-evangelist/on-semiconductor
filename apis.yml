@@ -14,6 +14,8 @@ tags:
   - Industrial
   - Fortune 1000
 common:
+  - type: DomainSecurity
+    url: security/on-semiconductor-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/ONSemiconductor
   - type: LinkedIn
