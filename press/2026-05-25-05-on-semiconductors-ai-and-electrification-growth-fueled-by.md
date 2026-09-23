@@ -1,7 +1,9 @@
 ---
 title: ON Semiconductor's AI and electrification growth fueled by ...
 url: https://www.linkedin.com/posts/robertquinn2020_semiconductors-ai-datacenters-activity-7379304112229666816-btn9
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"ON Semiconductor" press release artificial intelligence'
 position: 5
 source: serpapi-google
